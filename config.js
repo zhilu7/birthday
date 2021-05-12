@@ -31,7 +31,7 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "李子点一下",
-        play: "music",
+        play: "呜呜呜音乐没弄出来",
         bannar_coming: "21啦(才21)",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕",
